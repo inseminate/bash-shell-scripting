@@ -1,0 +1,7 @@
+Combine the && and || to create a ternary operator
+
+commandA && commandB || commandC
+
+example :
+color="blue"
+[[ "$color" == "blue" ]] && echo "it is blue" || echo "it is not blue"
