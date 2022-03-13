@@ -1,0 +1,6 @@
+How bash processes command lines
+1.Tokenisation
+2.Command Identification
+3.Shell Expansion
+4.Quote Removal
+5.Redirections
