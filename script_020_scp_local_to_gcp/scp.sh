@@ -8,7 +8,7 @@
 # use scp to upload files or scripts from local to gcp vm
 
 # Usage
-# scp scp.sh root@34.81.190.187:~/
+# scp scp.sh 34.81.190.187:~/
 
 curl ifconfig.co > ~/ip.txt
 
